@@ -1,0 +1,14 @@
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\bin\Debug\net8.0\MiniKata6.exe
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\bin\Debug\net8.0\MiniKata6.deps.json
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\bin\Debug\net8.0\MiniKata6.runtimeconfig.json
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\bin\Debug\net8.0\MiniKata6.dll
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\bin\Debug\net8.0\MiniKata6.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.AssemblyInfoInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.AssemblyInfo.cs
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.csproj.CoreCompileInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.dll
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\refint\MiniKata6.dll
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\MiniKata6.genruntimeconfig.cache
+C:\Users\nikod\RiderProjects\YellowBelt\MiniKata6\obj\Debug\net8.0\ref\MiniKata6.dll

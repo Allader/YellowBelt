@@ -1,0 +1,14 @@
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\bin\Debug\net8.0\Kata 9.exe
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\bin\Debug\net8.0\Kata 9.deps.json
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\bin\Debug\net8.0\Kata 9.runtimeconfig.json
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\bin\Debug\net8.0\Kata 9.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\bin\Debug\net8.0\Kata 9.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.AssemblyInfoInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.AssemblyInfo.cs
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.csproj.CoreCompileInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\refint\Kata 9.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\Kata 9.genruntimeconfig.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata 9\obj\Debug\net8.0\ref\Kata 9.dll

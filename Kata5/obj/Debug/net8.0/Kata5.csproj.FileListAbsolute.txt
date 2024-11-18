@@ -1,0 +1,14 @@
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\bin\Debug\net8.0\Kata5.exe
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\bin\Debug\net8.0\Kata5.deps.json
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\bin\Debug\net8.0\Kata5.runtimeconfig.json
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\bin\Debug\net8.0\Kata5.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\bin\Debug\net8.0\Kata5.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.AssemblyInfoInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.AssemblyInfo.cs
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.csproj.CoreCompileInputs.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\refint\Kata5.dll
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.pdb
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\Kata5.genruntimeconfig.cache
+C:\Users\nikod\RiderProjects\YellowBelt\Kata5\obj\Debug\net8.0\ref\Kata5.dll
